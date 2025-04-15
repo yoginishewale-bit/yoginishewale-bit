@@ -5,7 +5,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yoginishewale-bit&label=Profile%20views&color=0e75b6&style=flat" alt="yoginishewale-bit" /> </p>
 
-- I have worked of certain projects like: [- Morgage backed security analysis](https://github.com/yoginishewale-bit/Mortgage-Backed-Securties-Analysis-and-Prediction-a-Unique-ML-Approach)
+- I have worked of certain projects like: 1) [- Morgage backed security analysis](https://github.com/yoginishewale-bit/Mortgage-Backed-Securties-Analysis-and-Prediction-a-Unique-ML-Approach)
+- 2) [- Age and Gender detector using ML](https://github.com/yoginishewale-bit/Mortgage-Backed-Securties-Analysis-and-Prediction-a-Unique-ML-Approach)
+
+- 3) [- Genz Career Aspiration](https://github.com/yoginishewale-bit/Genz-Career-Aspiration)
 
 - Currently seeking opportunity as: **Business / Data Analyst**
 
